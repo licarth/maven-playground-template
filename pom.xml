@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.goeuro.seo.playground</groupId>
-    <artifactId>neo4j-playground</artifactId>
+    <artifactId>playground-archetype</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
